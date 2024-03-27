@@ -1,3 +1,5 @@
+This direcotry contains an example of an analysis notebook used to generate Figure 3. 
+
 Link to publically avaialable dataset: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE161277
 
 Http Link for all barcodes, features, and matrix files associated with GSE161277: 

@@ -1,4 +1,4 @@
-This direcotry contains an example of an analysis notebook used to generate Figure 3. 
+This directory contains an example analysis notebook used to generate Figure 3.
 
 Link to publically avaialable dataset: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE161277
 
